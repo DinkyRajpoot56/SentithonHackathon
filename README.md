@@ -191,3 +191,201 @@ E-mail Address
  
 
 POST COMME
+“How can I extract complete social media data?” — This question probably concerns most social media consulting firms. You probably scour pages of Google Search results to find the perfect extraction solution. Let’s cut to the chase and dive in.
+
+A social media extraction tool is intelligence software to get web data from social media networks automatically. Automacy is what makes social media data extraction tools shine. They can cut the time on developing web crawlers or searching mentions. Data sensitive jobs like PR and marketers, therefore, can fine-tune their strategy in a matter of days upon extracted data.
+
+However, each social media extraction tool has its own pros and cons. Big and small businesses have different struggles. And business in each field has its unique specification pertaining to software to dissolve the problems at stake. Whereas, most people are uncertain about what kind of tool they want. At this point, we should ask ourselves the question not “how” but “what problem you intend to solve”.
+
+Once you clear the question, the next step is to find the right tool that fits your needs.
+
+Take charge with your best face forward | Data Driven Investor
+Social media marketing starts with the customer in mind. Advertising, feedback and managing complaints mesh together to…
+www.datadriveninvestor.com
+
+Octoparse
+It stands out as the most leading data extraction software in the market, best known for voluminous web data extraction from a wide range of sources. Octoparse succeeds where many extraction tools fail at identifying posts, comments, images, handlers, etc, automatically. You can just click on the target element, it will guide you to extract target data. In addition, it has social media extraction templates which allow us to get data instantly without any task configuration. This is the boon feature for those who don’t want to get their hands-on coding.
+
+Pros: Abundant of YouTube video tutorials, instant extraction templates, precise extraction, advanced anti-blocking technology. Name it, it has more than we could expect. Provide a wide range of service to fit big or small extraction requirements. (Add features that it has IP rotation and resolves being blocked)
+
+Cons: Doesn’t support Mac OS X; Can’t extract PDF;
+
+
+Parsehub
+Just like most modern data extraction tools, Parsehub can handle dynamic and complex websites like javascript, Ajax, cookies and infinite scrolling. Better yet, it has no restraint to work on any operating system including Mac OS X, Windows and Linux. It even provides browser-extension to launch your scraping task instantly.
+
+Pros: Supports more systems. User-friendly interface.
+
+Cons: Pricey plan up from $149 per month. The free plan has very limited scraping quotes.
+
+
+Apify
+If you have a strong coding skill set and look for an extraction tool assisting you to accomplish a robotic process, you should try Apify. The computing platform makes it easy to develop and run the program. It doesn’t have a click-and-extraction function like most intuitive scrapers do, but you can write JavaScript to extract data.
+
+Pros: A nice computing platform for developers to build and share; Provide seamless integration with other tools.
+
+Cons: Apify charges quite expensive for its services. For people who lack programming skills, it can be challenging. Must save data in time as they have a short period of data retention.
+
+
+Mozenda
+Mozenda is a cloud-based data extraction service provider. What makes it unique is that it allows you to export extracted social media data to a cloud storage provider like Amazon S3, Microsoft Azure and dropbox. It allows you to automate the process via integration with online sources and tools. You can extract text, image, and PDF from the web pages which most web scrapers have difficulty to accomplish.
+
+Pros: Mozenda has enterprise-grade service and allows for on-premise hosting.
+
+Cons: Once more advance scraping tasks involved, more custom services are expected to call in.
+
+
+Import.io
+Import.io provides end-to-end solutions for enterprise-grade customers from a wide spectrum of fields. It helps you to aggregates reviews from multiple web sources or monitor SEO efforts at ease. It has a user-friendly interface is also very easy to master without any code. Web scraping beginners may appreciate its point-and-click features.
+
+Pros: both individual and big enterprise can avail from its cutting-edge technology to fetch web data; no limitation on the operation system.
+
+Cons: Limited plan options. It can quickly get expensive when you reach the scraping limite.
+
+
+Okay, What about Legal Issue?
+Keep in mind that there is legal compliance with web data extraction, especially when it comes to social media contents. The most notorious Facebook vs. Cambridge Analytica case has already blown the whistle for us that social media data underlie privacy concerns. That makes web data extraction to carry greater legal responsibility. Before any further extraction steps are made, there are 4 things you should be aware of :
+
+Facebook doesn’t allow any scraper, according to its robots.txt file.
+Robot.txt specifies rules whether a bot can conduct scraping behavior on its website. Even though there is no law determining its legal effect, but it can be relevant in legal cases. Thus, it is necessary to respect robot.txt
+
+Obtain written permission.
+It would be nice if you can email the website owner and ask for permission. An extreme case would be permanently blocked.
+
+Extract data at a reasonable speed.
+Web data extraction tools fetch data at a very fast speed. Most websites defend against aggressive requests by blocking out robotic acts. In this case, you may need to slow down your extraction speed to undercover your suspicious behaviour.
+
+Be respectful with the extracted data.
+Social media data is privacy matters. Keep your files as safe as possible.
+
+Apart from legal ramifications, it’s not always easy to get the data you want. As social media websites are highly dynamic and updated frequently, it is necessary to maintain the crawler on a regular basis to ensure the uninterrupted flow of data stream. In this case, for a business of any sizes, I advise you to leverage data extraction service to do the heavy lift as you can focus more time on what you do best.
+
+Originally published at http://www.dataextraction.io on May 2, 2020.
+
+
+Social Media Data
+Web Data Extraction
+Web Scraping
+Data Scraping
+Data Extraction
+83
+
+
+
+
+83
+
+
+More from DataDrivenInvestor
+Follow
+empowerment through data, knowledge, and expertise. subscribe to DDIntel at https://ddintel.datadriveninvestor.com
+
+Daniel G. Jennings
+Daniel G. Jennings
+
+·May 2, 2020
+
+
+Member-only
+
+Can Lionsgate and Movies Survive Coronavirus? — Market Mad House
+Examining Lionsgate Entertainment Corp (NYSE: LGF.A) could help answer the question can movies survive coronavirus? Lionsgate (NYSE: LGF.B) is an anachronism because its main business is movie and TV production. That makes Lionsgate an odd duck in an entertainment industry where conglomerates with many businesses own most studios. Disney (NYSE…
+
+Movies
+5 min read
+
+Can Lionsgate and Movies Survive Coronavirus? — Market Mad House
+Share your ideas with millions of readers.
+
+Write on Medium
+Crypto Beat
+Crypto Beat
+
+·May 2, 2020
+
+
+Member-only
+
+Business Models of a Digital Era
+The saying of “digital transformation” has received a high perception in the discussion about main drivers for change of a company’s recent status quo. May it be the new generation of young, digital natives or the cyclic waves in the economy, also called Kondratiev waves, behaviors like media consumption or…
+
+Business
+7 min read
+
+Business Models of a Digital Era
+Kaki Okumura
+Kaki Okumura
+
+·May 2, 2020
+
+
+Member-only
+
+Why COVID-19 Hit the Western World So Much Harder
+A theory on why Japan is still an outlier — I would like to preface by stating that I am in no way a health professional or expert on diseases, but there’s something very curious going on in Japan. Despite lack of a lockdown — the day-to-day activities in Japan have maintained relative normalcy — and being late to closing…
+
+Health
+8 min read
+
+Why COVID-19 Hit the Western World So Much Harder
+Phil Rossi
+Phil Rossi
+
+·May 2, 2020
+
+
+Member-only
+
+Making Customer Service A Disruptor
+Customer Service As An Outlier, Not An Outpost In our age of innovation, change, and disruption, it’s hard to imagine customer service at the forefront, much less a corporate tool and change agent. But that is exactly what Lexus incorporated when breaking into the luxury auto market. The big boys…
+
+Business
+4 min read
+
+Making Customer Service A Disruptor
+Technoids Blog
+Technoids Blog
+
+·May 2, 2020
+
+
+Member-only
+
+Edge AI - Computer vision on the edge - Part 1/2
+Carsten Moenning, Ph.D. Whenever network connectivity is not available, or network latency is insufficient, or there is a need for local processing due to regulatory, privacy and security concerns, or, indeed, a combination of all of these aspects is given, today’s standard cloud-based AI approach isn’t an option. Edge AI…
+
+Raspberry Pi
+10 min read
+
+Edge AI - Computer vision on the edge
+Read more from DataDrivenInvestor
+Recommended from Medium
+Tony Tsoi
+Tony Tsoi
+
+Application of Monte Carlo Simulation in Financial Forecasting
+
+Sean Moore Gonzalez
+Sean Moore Gonzalez
+
+A Kudos Network Application
+
+Pandemoniium
+Pandemoniium
+
+Top 3 Online Resources That May Come In Handy
+Jorge Robinat
+Jorge Robinat
+
+in
+
+Analytics Vidhya
+
+Improving meteorological and ocean models with Machine Learning
+
+Will Norris
+Will Norris
+
+in
+
+Towards Data Scien
