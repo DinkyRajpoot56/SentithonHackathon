@@ -33,6 +33,7 @@ def twitter_dbconnect():
         usrs_mentioned=" "
         hash = " "
         for mentions in tweet.entities["user_mentions"]:
+          
             usrs_mentioned = usrs_mentioned + mentions["screen_name"] + " ;"
         for hashtags in tweet.entities["hashtags"]:
             hash = hash + hashtags["text"] + "1"
